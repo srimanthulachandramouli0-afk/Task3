@@ -1,5 +1,4 @@
-# Task3
-
+# Task3 -Basic Vulnerability Scan
 
 Task 3 - Basic Vulnerability Scan
 Target: My Device - Android 10 (End of Life) + Google Chrome < 151 Finding: Device is running outdated OS with no security patches since 2023, making it vulnerable to multiple High/Critical CVEs including CVE-2026-82072. Recommendation: Upgrade device to Android 13+ or use with updated browser and minimal sensitive data.
