@@ -30,7 +30,6 @@ Other Findings:
 - Screenshot 1: Vulnerability list from cvedetails.com
 - Screenshot 2: Detailed CVE-2026-82072 with CVSS Vector and EPSS score
 
-*(Upload your screenshots in this folder)*
 
 ### 5. Mitigation Steps Taken
 1. Updated Google Chrome to latest version (Settings > About Chrome > Update)
